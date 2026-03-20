@@ -1309,6 +1309,7 @@ const HelpCenter = () => {
 
 
 // ─── Recruiter Job Card ─────────
+// eslint-disable-next-line no-unused-vars
 const RecruiterJobCard = ({ job, onViewApps, onDelete }) => (
   <motion.div
     className="job-card"
