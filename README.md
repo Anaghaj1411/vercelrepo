@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Deployment
 
 This React frontend is configured for Vercel deployment with a local Django backend.
@@ -24,3 +25,6 @@ The frontend is configured to proxy all `/api/*` requests to `http://localhost:8
 - All API requests are automatically routed to your local Django server
 - CORS headers are configured to handle cross-origin requests
 - The frontend will work exactly the same as it does in local development
+=======
+"# vercelrepo" 
+>>>>>>> c0042ccd54ae72faa305eddaecc84548aacdb312
